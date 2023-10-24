@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: fgdhifhksd
+  labels:
+    environment-id: env_9e3f73e8-efc5-4ce7-af81-7488e3969d16
+    project-id: project_f53955dd-2f8c-44bd-b012-32692aa6ce4b
+    project-name: ansdka
+    environment-name: dev
+    organization-id: org_e7c66bba-9ba1-48d7-bcc3-803475c3b4b6
