@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: fgdhifhksasdasd
+  labels:
+    environment-id: env_cb2218d8-29ed-48aa-a15b-d7166b5ce0cc
+    project-id: project_c8179731-0fc9-4acf-8eca-ac1ebe6999c6
+    project-name: hdkxhcvdsfs
+    environment-name: dev
+    organization-id: org_e7c66bba-9ba1-48d7-bcc3-803475c3b4b6
